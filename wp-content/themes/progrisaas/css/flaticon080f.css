@@ -1,0 +1,58 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 20/01/2021 04:45
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff2") format("woff2"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="ot-flaticon-"]:before, [class*=" ot-flaticon-"]:before,
+[class^="ot-flaticon-"]:after, [class*=" ot-flaticon-"]:after {   
+  font-family: Flaticon;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.ot-flaticon-telephone:before { content: "\f100"; }
+.ot-flaticon-chat:before { content: "\f101"; }
+.ot-flaticon-group:before { content: "\f102"; }
+.ot-flaticon-cart:before { content: "\f103"; }
+.ot-flaticon-schedule:before { content: "\f104"; }
+.ot-flaticon-calendar:before { content: "\f105"; }
+.ot-flaticon-coding:before { content: "\f106"; }
+.ot-flaticon-chat-1:before { content: "\f107"; }
+.ot-flaticon-headphone:before { content: "\f108"; }
+.ot-flaticon-magnifiying-glass:before { content: "\f109"; }
+.ot-flaticon-left-quotes-sign:before { content: "\f10a"; }
+.ot-flaticon-profile:before { content: "\f10b"; }
+.ot-flaticon-up:before { content: "\f10c"; }
+.ot-flaticon-left:before { content: "\f10d"; }
+.ot-flaticon-right:before { content: "\f10e"; }
+.ot-flaticon-close:before { content: "\f10f"; }
+.ot-flaticon-right-arrow:before { content: "\f110"; }
+.ot-flaticon-up-arrow:before { content: "\f111"; }
+.ot-flaticon-left-arrow:before { content: "\f112"; }
+.ot-flaticon-down-arrow:before { content: "\f113"; }
+.ot-flaticon-grid:before { content: "\f114"; }
+.ot-flaticon-list:before { content: "\f115"; }
+.ot-flaticon-menu-of-three-lines:before { content: "\f116"; }
+.ot-flaticon-quote:before { content: "\f117"; }
+.ot-flaticon-check:before { content: "\f118"; }
+.ot-flaticon-link1:before { content: "\f119"; }
+.ot-flaticon-play:before { content: "\f11a"; }
